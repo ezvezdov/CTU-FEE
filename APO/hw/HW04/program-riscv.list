@@ -1,0 +1,84 @@
+
+program code
+
+
+build/program-riscv:     file format elf32-littleriscv
+
+
+Disassembly of section my_text:
+
+00010104 <subroutine_fnc>:
+   10104:	00050793          	mv	a5,a0
+   10108:	02000713          	li	a4,32
+   1010c:	00e58c63          	beq	a1,a4,10124 <subroutine_fnc+0x20>
+   10110:	00900713          	li	a4,9
+   10114:	00e58863          	beq	a1,a4,10124 <subroutine_fnc+0x20>
+   10118:	00011737          	lui	a4,0x11
+   1011c:	1ec72703          	lw	a4,492(a4) # 111ec <optional_char_to_skip>
+   10120:	02b71263          	bne	a4,a1,10144 <subroutine_fnc+0x40>
+   10124:	0007a703          	lw	a4,0(a5)
+   10128:	00170693          	addi	a3,a4,1
+   1012c:	00070863          	beqz	a4,1013c <subroutine_fnc+0x38>
+   10130:	00000513          	li	a0,0
+   10134:	00d7a023          	sw	a3,0(a5)
+   10138:	00008067          	ret
+   1013c:	00058513          	mv	a0,a1
+   10140:	ff5ff06f          	j	10134 <subroutine_fnc+0x30>
+   10144:	00058513          	mv	a0,a1
+   10148:	00000693          	li	a3,0
+   1014c:	fe9ff06f          	j	10134 <subroutine_fnc+0x30>
+
+00010150 <toplevel_fnc>:
+   10150:	fe010113          	addi	sp,sp,-32
+   10154:	00112e23          	sw	ra,28(sp)
+   10158:	00812c23          	sw	s0,24(sp)
+
+   1015c:	00012623          	sw	zero,12(sp)
+   10160:	03f00893          	li	a7,63
+   10164:	00000513          	li	a0,0
+   
+   10168:	00b10593          	addi	a1,sp,11
+   1016c:	00100613          	li	a2,1
+   10170:	00000073          	ecall
+
+   10174:	00100793          	li	a5,1
+   10178:	04f51e63          	bne	a0,a5,101d4 <toplevel_fnc+0x84>
+   1017c:	00000413          	li	s0,0
+   10180:	0240006f          	j	101a4 <toplevel_fnc+0x54>
+   10184:	00140413          	addi	s0,s0,1
+   10188:	03f00893          	li	a7,63
+   1018c:	00000513          	li	a0,0
+   10190:	00b10593          	addi	a1,sp,11
+   10194:	00100613          	li	a2,1
+   10198:	00000073          	ecall
+
+   1019c:	00100793          	li	a5,1
+   101a0:	02f51c63          	bne	a0,a5,101d8 <toplevel_fnc+0x88>
+   101a4:	00b14583          	lbu	a1,11(sp)
+   101a8:	00c10513          	addi	a0,sp,12
+   101ac:	f59ff0ef          	jal	ra,10104 <subroutine_fnc>
+
+   101b0:	0ff57513          	zext.b	a0,a0
+   101b4:	00a105a3          	sb	a0,11(sp)
+   101b8:	fc0506e3          	beqz	a0,10184 <toplevel_fnc+0x34>
+   101bc:	04000893          	li	a7,64
+   101c0:	00100513          	li	a0,1
+   101c4:	00b10593          	addi	a1,sp,11
+   101c8:	00100613          	li	a2,1
+   101cc:	00000073          	ecall
+   
+   101d0:	fb9ff06f          	j	10188 <toplevel_fnc+0x38>
+   101d4:	00000413          	li	s0,0
+   101d8:	00040513          	mv	a0,s0
+   101dc:	01c12083          	lw	ra,28(sp)
+   101e0:	01812403          	lw	s0,24(sp)
+   101e4:	02010113          	addi	sp,sp,32
+   101e8:	00008067          	ret
+
+program data
+
+
+build/program-riscv:     file format elf32-littleriscv
+
+Contents of section my_data:
+ 111ec 00000000                             ....            

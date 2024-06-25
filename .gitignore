@@ -5,7 +5,31 @@ _rozvrh_
 ALG/ALG.pdf 
 ALG/zk/theory
 
-APO
+# APO
+APO/rvalp.pdf
+APO/APOMEM*
+APO/zkouška
+APO/semestralka
+APO/hw/HW02/first_edition
+APO/hw/HW02/test-10x8
+APO/hw/HW02/*.txt
+APO/hw/HW02/main
+APO/hw/HW02/*.out
+APO/hw/HW02/main.zip
+APO/hw/HW04/program
+APO/hw/HW04/*.zip
+APO/hw/HW04/id.txt
+depend
+*.o
+APO/lab/bubble_sort/bubble_sort
+APO/lab/lab01/sum2var
+APO/lab/lab01/sum2var-riscv
+APO/lab/lab01/sum2vars-riscv2
+APO/lab/lab05/change_me
+APO/lab/lab06/change_me
+APO/lab/lab07/change_me
+APO/lab/selection_sort/selection_sort
+
 B21
 B22
 BIO

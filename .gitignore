@@ -5,7 +5,7 @@ _rozvrh_
 ALG/ALG.pdf 
 ALG/zk/theory
 
-# APO
+# APO, refer to https://github.com/ezvezdov/CTU-MZSnake
 APO/rvalp.pdf
 APO/APOMEM*
 APO/zkouška
@@ -20,7 +20,6 @@ APO/hw/HW04/program
 APO/hw/HW04/*.zip
 APO/hw/HW04/id.txt
 depend
-*.o
 APO/lab/bubble_sort/bubble_sort
 APO/lab/lab01/sum2var
 APO/lab/lab01/sum2var-riscv
@@ -34,10 +33,25 @@ APO/lab/selection_sort/selection_sort
 B21
 B22
 
+# Ignore BIO, refer to https://github.com/ezvezdov/BIOmetry-project
 BIO
+
+# Ignore bachelor thesis, refer to https://github.com/ezvezdov/bachelor_thesis
 BP
+
+# Ignore DBS, refer to https://github.com/ezvezdov/DBS_project
 DBS
-DLE
+
+# DLE
+DLE/lectures
+DLE/seminars
+DLE/labs/lab1/lab1.zip
+DLE/labs/lab1/belkin-et-al-2019-reconciling-modern-machine-learning-practice-and-the-classical-bias-variance-trade-off.pdf
+DLE/labs/lab1/pnas.1903070116.sapp.pdf
+DLE/labs/lab2/lab2.zip
+DLE/labs/lab3
+
+
 DMA
 FUP
 JAG
@@ -59,3 +73,9 @@ RPH
 RPZ
 UROB
 ZUI
+
+# Python
+__pycache__
+
+# Asm/C/C++
+*.o

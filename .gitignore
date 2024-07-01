@@ -80,7 +80,10 @@ JUL/exercises/.gitignore
 Manifest.toml
 
 LAG
-LGR
+
+# LGR
+LGR/lekce
+
 MA1
 MA2
 NUM

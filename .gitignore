@@ -108,7 +108,37 @@ OPT/opt.pdf
 OPT/hw/hw04/hw04.zip
 OPT/hw/hw05/hw5.zip
 
-OSY
+# OSY
+OSY/lekce
+OSY/hw/hw10\ \[NOVA\,brk\]/brktest
+OSY/hw/hw10\ \[NOVA\,brk\]/kern/build 
+OSY/hw/hw10\ \[NOVA\,brk\]/kern/include
+OSY/hw/hw10\ \[NOVA\,brk\]/kern/src/*
+!OSY/hw/hw10\ \[NOVA\,brk\]/kern/src/ec_syscall.cc
+OSY/hw/hw10\ \[NOVA\,brk\]/user
+OSY/hw/hw10\ \[NOVA\,brk\]/Makefile
+OSY/hw/hw10\ \[NOVA\,brk\]/start.sh
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/osy-hw11.zip
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/Makefile
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/user/*
+!OSY/hw/hw11\ \[NOVA\,malloc\,free\]/user/mem_alloc.c
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/kern/build
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/kern/include
+OSY/hw/hw11\ \[NOVA\,malloc\,free\]/kern/src/*
+!OSY/hw/hw11\ \[NOVA\,malloc\,free\]/kern/src/ec_syscall.cc
+OSY/hw/hw12\ \[NOVA\,threads\]/osy-hw12.zip
+OSY/hw/hw12\ \[NOVA\,threads\]/Makefile
+OSY/hw/hw12\ \[NOVA\,threads\]/kern/build
+OSY/hw/hw12\ \[NOVA\,threads\]/kern/include
+OSY/hw/hw12\ \[NOVA\,threads\]/kern/src/*
+!OSY/hw/hw12\ \[NOVA\,threads\]/kern/src/ec_syscall.cc
+OSY/hw/hw12\ \[NOVA\,threads\]/user
+OSY/hw/hw12\ \[NOVA\,threads\]/start.sh
+OSY/hw/hw13\ \[BusyBox\,Linux\ kernel\]/Materials/working_ramdisk
+OSY/osy zapisky.pdf
+OSY/Osy_rychle_V1.5_unsolved.pdf
+OSY/Osy_rychle_V1.5.pdf
+
 PDV
 PJV
 PROJ

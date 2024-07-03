@@ -73,12 +73,13 @@ JAG/HW/hw5/JAG05.pdf
 JAG/HW/hw6/JAG06.pdf
 JAG/HW/hw7/JAG07.pdf
 
-# JUL
+# JUL, refer to https://github.com/ezvezdov/Facial-keypoint-detection
 JUL/lectures
 JUL/Projekt_zviazyau
 JUL/exercises/.gitignore
 Manifest.toml
 
+# LAG
 LAG
 
 # LGR
@@ -100,7 +101,13 @@ MA2/Vzorové zkoušky.pdf
 NUM/NUMmaterialy
 NUM/NMall_print.pdf
 
-OPT
+# OPT
+OPT/lekce
+OPT/Zkouska
+OPT/opt.pdf
+OPT/hw/hw04/hw04.zip
+OPT/hw/hw05/hw5.zip
+
 OSY
 PDV
 PJV

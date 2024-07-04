@@ -1,6 +1,10 @@
 _Documents_
 _rozvrh_
 
+########################################################################
+#                 Ignore sensitive files from subjects                 #
+########################################################################
+
 # ALG
 ALG/ALG.pdf 
 ALG/zk/theory
@@ -160,8 +164,28 @@ RPZ
 UROB
 ZUI
 
+
+########################################################################
+#                   Ignore build files and IDE files                   #
+########################################################################
+
 # Python
 __pycache__
 
 # Asm/C/C++
 *.o
+
+# JetBrains IDEs: IntelliJ, PyCharm, CLion
+# https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf
+*.iml
+*.ipr
+*.iws
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+cmake-build*/
+out/

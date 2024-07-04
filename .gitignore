@@ -154,7 +154,14 @@ PDV/semestralky/sem_01\ \[BFS\,\ ID-DFS\]/algorithms/sem01_9.5.zip
 PDV/semestralky/sem_02\ \[RAFT\]/src/cz/cvut/fel/agents/pdv/student/student_7b.zip
 PDV/Zkouska/ZK_05
 
-PJV
+# PJV, refer to https://github.com/ezvezdov/Java-Chess
+PJV/semestralka
+PJV/hw/hw1/src/cz/cvut/fel/pjv/pjv.zip
+PJV/hw/hw2/src/main/java/cz/cvut/fel/pjv/pjv.zip
+PJV/hw/hw3/src/main/java/cz/cvut/fel/pjv/CircularArrayQueue.zip
+PJV/hw/hw4/src/main/java/cz/cvut/fel/pjv/BruteForceAttacker.zip
+PJV/hw/hw5/src/main/java/cz/cvut/fel/pjv/pjv.zip
+
 PROJ
 PRP
 PSIA
@@ -175,17 +182,21 @@ __pycache__
 # Asm/C/C++
 *.o
 
+# Java
+*.class
+
 # JetBrains IDEs: IntelliJ, PyCharm, CLion
 # https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
-.idea/**/workspace.xml
-.idea/**/usage.statistics.xml
-.idea/**/shelf
 *.iml
 *.ipr
 *.iws
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
 .idea/**/sqlDataSources.xml
 cmake-build*/
 out/
+target/

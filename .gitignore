@@ -162,8 +162,35 @@ PJV/hw/hw3/src/main/java/cz/cvut/fel/pjv/CircularArrayQueue.zip
 PJV/hw/hw4/src/main/java/cz/cvut/fel/pjv/BruteForceAttacker.zip
 PJV/hw/hw5/src/main/java/cz/cvut/fel/pjv/pjv.zip
 
+# Ignore PROJ, refer to https://github.com/ezvezdov/Multilingual-semantic-similarity
 PROJ
-PRP
+
+# PRP
+*b0b36prp*
+!*b0b36prp*genref*
+main
+main.zip
+graph_creator
+bin2txt
+txt2bin
+povinne.zip
+volitelne.zip
+tgraph_search
+tgraph_search-time
+PRP/lab/lab2/stderr
+PRP/lab/lab2/stdout
+PRP/lab/lab3/cyklus
+PRP/lab/lab3/mince
+PRP/lab/lab4/cv1
+PRP/lab/lab4/cv2
+PRP/lab/lab4/cv3
+PRP/lab/lab6/lab1
+PRP/lab/lab8/debug_test
+PRP/lab/lab9/recursion
+PRP/lab/lab10/queue
+PRP/lab/lab11/soubor
+
+
 PSIA
 PST
 RPH

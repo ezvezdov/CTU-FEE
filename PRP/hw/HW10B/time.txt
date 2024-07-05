@@ -1,0 +1,18 @@
+My 
+Load time ....4482ms
+Find all shortest paths from the node 0
+Save solution to s
+Solve time ...16812 ms
+Save time ....3141 ms
+Free allocated memory
+Total time ...24435ms
+
+
+Dijkstra version 2.3.7
+Load graph time ......3145ms
+        Init time ....104ms
+        Find time ....14897ms
+Solve time ...........15001ms
+Load solution time ...2558ms
+Compare time..........49ms
+Total time ...20755ms

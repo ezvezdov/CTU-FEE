@@ -207,7 +207,11 @@ PST/PST_cviceni.pdf
 # RPH
 RPH/du/spam_filtr/spam_filtr.zip
 
-RPZ
+# RPZ
+RPZ/lab_lekce
+RPZ/lekce
+RPZ/prepare_tests
+
 UROB
 ZUI
 
@@ -253,3 +257,16 @@ x86/
 ipch/
 *.VC.db
 *.VC.VC.opendb
+RPZ/hw/01_basics/01_basics.zip
+RPZ/hw/02_bayes/02_bayes.zip
+RPZ/hw/03_minimax/03_minimax.zip
+RPZ/hw/04_parzen/04_parzen.zip
+RPZ/hw/05_mle_map_bayes/hw05.zip
+RPZ/hw/06_logreg/hw06.zip
+RPZ/hw/07_perceptron/hw07.zip
+RPZ/hw/08_svm/hw08.zip
+RPZ/hw/09_adaboost/hw09.zip
+RPZ/hw/10_kmeans/hw10.zip
+RPZ/hw/11_cnn/hw11_76.zip
+RPZ/hw/11_cnn/hw11.zip
+RPZ/rpz_exercise_book.pdf

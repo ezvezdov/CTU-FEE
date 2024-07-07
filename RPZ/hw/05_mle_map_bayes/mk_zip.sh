@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zip hw05.zip mle_map_bayes.ipynb mle_map_bayes.py map_normal_derivation.jpg map_categorical_derivation.jpg mle_normal.png mle_normal_varying_dataset_size.png map_prior_normal.png mle_map_prior_comparison_normal.png mle_map_normal_dataset_sizes.png bayes_posterior_normal.png mle_map_bayes_normal.png noise.png categorical_data.png mle_categorical.png map_categorical.png bayes_posterior_categorical.png bayes_categorical.png mle_map_bayes_Bayes_classifier.png

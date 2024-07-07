@@ -191,7 +191,14 @@ PRP/lab/lab10/queue
 PRP/lab/lab11/soubor
 
 
-PSIA
+# PSIA
+PSIA/Lections
+PSIA/HW/Pictures_to_send
+PSIA/HW/UDP_Communication_Framework.zip
+PSIA/Priprava-na-zkousku-PSI.pdf
+PSIA/PSI.pdf
+
+
 PST
 RPH
 RPZ
@@ -205,6 +212,7 @@ ZUI
 
 # Python
 __pycache__
+*.pyc
 
 # Asm/C/C++
 *.o
@@ -227,3 +235,15 @@ __pycache__
 cmake-build*/
 out/
 target/
+
+# Visual Studio
+# https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+*.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+ipch/
+*.VC.db
+*.VC.VC.opendb

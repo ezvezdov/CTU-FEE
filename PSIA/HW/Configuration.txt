@@ -1,0 +1,11 @@
+Wireshark
+	udp.port==15000
+
+
+Programm
+	Sender
+		local port 14001
+		receiver ip
+		Target port 15000
+	Receiver
+		local port 15000

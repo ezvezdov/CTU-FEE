@@ -71,23 +71,16 @@ JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Fa
 ## Useful links
 <details>
 <summary>Services</summary>
-    [KOS](https://new.kos.cvut.cz)
 
-    [CourseWare](https://cw.fel.cvut.cz/wiki/start)
-
-    [Moodle](https://moodle.fel.cvut.cz)
-
-    [BRUTE](https://cw.felk.cvut.cz/brute/student/)
-
-    [Pošta](https://wimap.feld.cvut.cz/horde4/login.php)
-
-    [Usermap](https://usermap.cvut.cz/)
-
-    [UDB FEL](https://udb.fel.cvut.cz/udb.phtml)
-
-    [UTVS](https://www.utvs.cvut.cz)
-
-    [Anketa](https://anketa.is.cvut.cz/html/anketa/login)
+    + [KOS](https://new.kos.cvut.cz)
+    + [CourseWare](https://cw.fel.cvut.cz/wiki/start)
+    + [Moodle](https://moodle.fel.cvut.cz)
+    + [BRUTE](https://cw.felk.cvut.cz/brute/student/)
+    + [Pošta](https://wimap.feld.cvut.cz/horde4/login.php)
+    + [Usermap](https://usermap.cvut.cz/)
+    + [UDB FEL](https://udb.fel.cvut.cz/udb.phtml)
+    + [UTVS](https://www.utvs.cvut.cz)
+    + [Anketa](https://anketa.is.cvut.cz/html/anketa/login)
 
 </details>
 <details>

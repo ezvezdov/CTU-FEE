@@ -12,7 +12,7 @@
 | kviz [[git](kvizy/)]                                                                                                                                                             | MAX                         | 11        |
 
 ## Tests
-| Name​                      | Score | Max score |
-| -------------------------- | ----- | --------- |
-| test01 - 1. zapoctovy test | 7     | 15        |
-| test02 - 2. zapoctovy test | 9.5   | 15        |
+| Name​                                                | Score | Max score |
+| ---------------------------------------------------- | ----- | --------- |
+| test01 - 1. zapoctovy test [[git](testy/test01.pdf)] | 7     | 15        |
+| test02 - 2. zapoctovy test [[git](testy/test02.pdf)] | 9.5   | 15        |

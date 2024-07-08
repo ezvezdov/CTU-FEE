@@ -17,9 +17,9 @@
 
 ## External sources
 
-[My bachelor's thesis]https://github.com/ezvezdov/bachelor_thesis
+My bachelor's thesis: [[DSpace](https://dspace.cvut.cz/handle/10467/115109)] [[git](https://github.com/ezvezdov/bachelor_thesis)]
 
-[Report "Multilingual semantic similarity"](https://github.com/ezvezdov/Multilingual-semantic-similarity)
+PROJ report: ["Multilingual semantic similarity"](https://github.com/ezvezdov/Multilingual-semantic-similarity)
 
 Biometry subject reports: [BIOmetry-project](https://github.com/ezvezdov/BIOmetry-project)
 

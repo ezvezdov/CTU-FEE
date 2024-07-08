@@ -1,3 +1,6 @@
+# Czech Technical University in Prague, results of study
+
+## Study information
 **Faculty**: Faculty of Electrical Engineering​
 
 **Study programme**:​ BP44 Open Informatics​
@@ -12,7 +15,23 @@
 
 **Study grade**: C
 
+## External sources
 
+[My bachelor's thesis]https://github.com/ezvezdov/bachelor_thesis
+
+[Report "Multilingual semantic similarity"](https://github.com/ezvezdov/Multilingual-semantic-similarity)
+
+Biometry subject reports: [BIOmetry-project](https://github.com/ezvezdov/BIOmetry-project)
+
+APO semester project: [Snake game on MicroZed board](https://github.com/ezvezdov/CTU-MZSnake)
+
+PJV semester project: [Java Chess](https://github.com/ezvezdov/Java-Chess)
+
+DBS semester project: [DBS_project](https://github.com/ezvezdov/DBS_project)
+
+JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Facial-keypoint-detection)
+
+## Subjects list
 
 | Code                                                                          | Name​                                                  | Grade | Links                                                                                                                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | :---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |

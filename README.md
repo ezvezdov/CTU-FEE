@@ -71,6 +71,7 @@ JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Fa
 ## Useful links
 <details>
 <summary>Services</summary>
+
     ### Heading
     1. Foo
     2. Bar

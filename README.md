@@ -9,9 +9,9 @@
 
 **Earned credits**: 188
 
-**Arithmetic average**: 1,88 (exactly 15/8)​
+**Arithmetic average**: 1,88
 
-**Weighted average**:​ 1,92 (exactly 561/292)​
+**Weighted average**:​ 1,92
 
 **Study grade**: C
 
@@ -66,3 +66,36 @@ JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Fa
 | B4B[**PROJ**](https://github.com/ezvezdov/Multilingual-semantic-similarity)6​ | Unassisted project​                                    |   ✅   | [[git](https://github.com/ezvezdov/Multilingual-semantic-similarity)]                                                                                    |
 | A6M33**ZPP**​                                                                 | First Aid Training Course​                             |   ✅   |                                                                                                                                                          |
 | A0B04**C2Z**​                                                                 | Czech language 2​                                      |   ✅   |                                                                                                                                                          |
+
+
+## Useful links
+<details>
+<summary>Services</summary>
+    [KOS](https://new.kos.cvut.cz)
+
+    [CourseWare](https://cw.fel.cvut.cz/wiki/start)
+
+    [Moodle](https://moodle.fel.cvut.cz)
+
+    [BRUTE](https://cw.felk.cvut.cz/brute/student/)
+
+    [Pošta](https://wimap.feld.cvut.cz/horde4/login.php)
+
+    [Usermap](https://usermap.cvut.cz/)
+
+    [UDB FEL](https://udb.fel.cvut.cz/udb.phtml)
+
+    [UTVS](https://www.utvs.cvut.cz)
+
+    [Anketa](https://anketa.is.cvut.cz/html/anketa/login)
+
+</details>
+<details>
+<summary>Povinné předměty</summary>
+    [ENG](https://jazyky.fel.cvut.cz/index.php?o=en&m=j&lg=cz)
+    <details>
+    <summary>DMA</summary>
+        [DMA](https://math.fel.cvut.cz/cz/lide/habala/teaching/dma.html)
+        [DMA lekce](https://www.youtube.com/playlist?list=PLQL6z4JeTTQmjENLbJmoh_blthkUyBeJM)
+    </details>
+</details>

@@ -1,9 +1,15 @@
 Faculty: Faculty of Electrical Engineering​
+
 Study programme:​ BP44 Open Informatics​
+
 Branch of study: BPOI118 Artificial Intelligence and Computer Science
+
 Earned credits: 188
+
 Arithmetic average: 1,88 (exactly 15/8)​
+
 Weighted average:​ 1,92 (exactly 561/292)​
+
 Study grade: C
 
 

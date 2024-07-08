@@ -233,9 +233,9 @@ UROB/hw/hw4_RL/hw04.zip
 UROB/lectures
 UROB/tests/prepare_exam
 
-
-ZUI
-
+# ZUI
+ZUI/lectures
+ZUI/midterm
 
 ########################################################################
 #                   Ignore build files and IDE files                   #

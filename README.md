@@ -71,7 +71,11 @@ JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Fa
 ## Useful links
 <details>
 <summary>Services</summary>
-
+    ### Heading
+    1. Foo
+    2. Bar
+       * Baz
+       * Qux
     + [KOS](https://new.kos.cvut.cz)
     + [CourseWare](https://cw.fel.cvut.cz/wiki/start)
     + [Moodle](https://moodle.fel.cvut.cz)

@@ -7,7 +7,7 @@
 | HW4 - Reinforcement learning [[CW](https://cw.fel.cvut.cz/wiki/courses/b3b33urob/tutorials/hw4 "Assignment instruction")] [[git](hw/hw4_RL/)]     | 16    | 15        |
 
 ## Tests
-| Name​                                      | Score | Max score |
-| ------------------------------------------ | ----- | --------- |
-| Midterm test [[git](tests/UROB TEST1.pdf)] | 12.3  | 20        |
-| Exam test [[git](tests/UROB TEST2.pdf)]    | 15.5  | 20        |
+| Name​                                        | Score | Max score |
+| -------------------------------------------- | ----- | --------- |
+| Midterm test [[git](tests/UROB%20TEST1.pdf)] | 12.3  | 20        |
+| Exam test [[git](tests/UROB%20TEST2.pdf)]    | 15.5  | 20        |

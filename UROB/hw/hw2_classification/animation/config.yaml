@@ -1,0 +1,75 @@
+model_path: "{{ root_path }}/data/models/{{ dataset }}_{{ activation_function }}.pkl"
+dataset_path: "{{ root_path }}/data/datasets/{{ dataset }}.npz"
+
+# ======= Manim Configuration =======
+
+manim:
+  frame_rate: 60
+  frame_height: 9
+  frame_width: 16
+  pixel_height: 1080
+  pixel_width: 1920
+  disable_caching: True
+  save_last_frame: False
+  output_file: "{{ root_path }}/data/videos/{{ dataset }}_{{ activation_function }}.mp4"
+
+# ======= Scene Configuration =======
+
+foreground_plane:
+  x_range: [ -8, 8, 1 ]
+  y_range: [ -4.5, 4.5, 1 ]
+  x_length: 32
+  y_length: 18
+background_plane:
+  x_range: [ -16, 16, 1 ]
+  y_range: [ -9, 9, 1 ]
+  x_length: 64
+  y_length: 36
+  color: "#444444"
+  axis_config:
+    stroke_color: "#BBBBBB"
+    color: "#444444"
+  background_line_style:
+    stroke_width: 1
+    stroke_color: "#444444"
+  faded_line_ratio: 1
+dots:
+  radius: 0.08
+  stroke_width: 2
+  stroke_color: "#000000"
+squares:
+  stroke_width: 0
+  fill_opacity: 1
+  z_index: -1
+
+# ======= Color Configuration =======
+
+colors:
+  0: "#0066FF"
+  1: "#FF0066"
+  2: "#00FF7F"
+  3: "#FF781F"
+  4: "#EE82EE"
+  5: "#66CDAA"
+
+colors_rgb:
+  0: [ 0, 102, 255 ]
+  1: [ 255, 0, 102 ]
+  2: [ 0, 255, 127 ]
+  3: [ 255, 120, 31 ]
+  4: [ 238, 130, 238 ]
+  5: [ 102, 205, 170 ]
+
+light_colors:
+  0: "#85B6FF"
+  1: "#FF99C2"
+  2: "#85FFC2"
+  3: "#FFB685"
+  4: "#F3A5F3"
+
+light_colors_rgb:
+  0: [ 133, 182, 255 ]
+  1: [ 255, 153, 194 ]
+  2: [ 133, 255, 194 ]
+  3: [ 255, 182, 133 ]
+  4: [ 243, 165, 243 ]

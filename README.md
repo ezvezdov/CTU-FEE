@@ -19,7 +19,7 @@
 
 My bachelor's thesis: [[DSpace](https://dspace.cvut.cz/handle/10467/115109)] [[git](https://github.com/ezvezdov/bachelor_thesis)]
 
-PROJ report: ["Multilingual semantic similarity"](https://github.com/ezvezdov/Multilingual-semantic-similarity)
+Unassisted project report: ["Multilingual semantic similarity"](https://github.com/ezvezdov/Multilingual-semantic-similarity)
 
 Biometry subject reports: [BIOmetry-project](https://github.com/ezvezdov/BIOmetry-project)
 
@@ -65,6 +65,3 @@ Notion: [[All](https://zhenyara.notion.site/VUT-15cdc361b07d419994dfb7efd8ee3112
 | B0B36[**JUL**](JUL)​                                                          | Julia for optimization and learning​                   |   B   | [[CW](https://cw.fel.cvut.cz/b231/courses/b0b36jul/start)] [[materials](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)] |
 | A6M33[**BIO**](https://github.com/ezvezdov/BIOmetry-project)​                 | Biometry                                               |   A   | [[CW](https://cw.fel.cvut.cz/b231/courses/a6m33bio/start)]                                                                                               |
 | B3B33[**UROB**​](UROB)                                                        | Robot Learning​                                        |   A   | [[CW](https://cw.fel.cvut.cz/b231/courses/b3b33urob/start)]                                                                                              |
-| B4B[**PROJ**](https://github.com/ezvezdov/Multilingual-semantic-similarity)6​ | Unassisted project​                                    |   ✅   | [[git](https://github.com/ezvezdov/Multilingual-semantic-similarity)]                                                                                    |
-| A6M33**ZPP**​                                                                 | First Aid Training Course​                             |   ✅   |                                                                                                                                                          |
-| A0B04**C2Z**​                                                                 | Czech language 2​                                      |   ✅   |                                                                                                                                                          |

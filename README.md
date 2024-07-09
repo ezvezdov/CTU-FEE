@@ -1,13 +1,11 @@
-# Czech Technical University in Prague, results of study
+# Results of study at Czech Technical University in Prague
 
 ## Study information
 **Faculty**: Faculty of Electrical Engineering​
 
-**Study programme**:​ BP44 Open Informatics​
+**Study programme**:​ Open Informatics​ (BP44)
 
-**Branch of study**: BPOI118 Artificial Intelligence and Computer Science
-
-**Earned credits**: 188
+**Branch of study**: Artificial Intelligence and Computer Science (BPOI118)
 
 **Arithmetic average**: 1,88
 

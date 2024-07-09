@@ -31,6 +31,8 @@ DBS semester project: [DBS_project](https://github.com/ezvezdov/DBS_project)
 
 JUL semester project: [Facial keypoint detection](https://github.com/ezvezdov/Facial-keypoint-detection)
 
+Notion: [[All](https://zhenyara.notion.site/VUT-15cdc361b07d419994dfb7efd8ee3112?pvs=4)], [[Saved links](https://www.notion.so/zhenyara/VUT-15cdc361b07d419994dfb7efd8ee3112?pvs=4#5479a20dbbd34ae1983a97adcda1e12d)], [[LGR](https://zhenyara.notion.site/LGR-991330ce5ca94d79a336bad08bb2cbe1?pvs=4)], [[JAG](https://zhenyara.notion.site/JAG-f141969372ef43c0ab9f8a1d72896a5f?pvs=4)], [[ZUI](https://zhenyara.notion.site/ZUI-3a2b9334f7f14c238077a4c82dc15f51?pvs=4)], [[BIO](https://zhenyara.notion.site/BIO-b3738a07bff94e7f93a2902fbb550e41?pvs=4)]
+
 ## Subjects list
 
 | Code                                                                          | Name​                                                  | Grade | Links                                                                                                                                                    |
